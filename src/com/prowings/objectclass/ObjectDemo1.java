@@ -23,7 +23,7 @@ public class ObjectDemo1 {
 		System.out.println(o4.equals(o5));
 		System.out.println(o4.hashCode());
 		System.out.println(o5.hashCode());
-		System.out.println(o4 == o5);
+		//System.out.println(o4 == o5);
 			
 	
 	}
